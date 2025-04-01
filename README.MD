@@ -1,6 +1,10 @@
 # Assets for Slappy game GitHub repository
 
-## 24-01-18
+## 25-04-01
+- Continue assets-slappy-000 
+	- house-003-untextured
+
+## 25-01-18
 
 - Begin trees
 - Add this repo as submodule to ad-learning repo
